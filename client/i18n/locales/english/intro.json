@@ -7096,6 +7096,13 @@
       "exam-python-certification": {
         "title": "Python Certification Exam",
         "intro": ["Pass this exam to earn your Python Certification"]
+      },
+      "workshop-employee-profile-generator-part-2": {
+        "title": "Build an Employee Profile Generator: Part 2",
+        "intro": [
+          "In this workshop, you will build on Part 1 by using Python’s built-in string methods to work with employee data.",
+          "You will use them to search, format, modify, and validate strings such as emails, names, and employee codes."
+        ]
       }
     }
   },
