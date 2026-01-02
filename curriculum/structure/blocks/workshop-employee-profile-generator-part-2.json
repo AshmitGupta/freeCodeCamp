@@ -4,7 +4,10 @@
   "dashedName": "workshop-employee-profile-generator-part-2",
   "helpCategory": "Python",
   "blockLayout": "challenge-grid",
-  "challengeOrder": [{ "id": "69560519b6211efef2989c1a", "title": "Step 1" }],
+  "challengeOrder": [
+    { "id": "69560519b6211efef2989c1a", "title": "Step 1" },
+    { "id": "69576266ffb8f90c4c685720", "title": "Step 2" }
+  ],
   "blockLabel": "workshop",
   "usesMultifileEditor": true,
   "hasEditableBoundaries": true
